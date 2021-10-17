@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @claracamejo
+- 👋 Hola, me llamo @claracamejo
 
 - 🌱 Soy estudiante de la carrera TUDAI en Tandil, y este es mi GitHub de Trabajos Practicos 
 <!---- 💞️ I’m looking to collaborate on ...--->
