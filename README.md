@@ -1,6 +1,9 @@
-- 👋 Hola, me llamo @claracamejo
+- 👋 Hi!, my name is Clara
 
-- 🌱 Soy estudiante de la carrera TUDAI en Tandil, y este es mi GitHub de Trabajos Practicos y proyectos personales 😁
+- 🌱 I'm a programmer. In this GitHub, you'll find university projects that I want to keep, and personal projects. 😁
+
+- ✨ If you want to know more about me, I invite you to check out my [LinkedIn profile](https://www.linkedin.com/in/clara-camejo/)
+
 <!---- 💞️ I’m looking to collaborate on ...--->
 
 <!---
